@@ -18,7 +18,7 @@
 
 <br />
 
-<h2>관심 및 공부 기술</h2>
+<h2>관심 및 공부 기술</h2>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
@@ -27,6 +27,4 @@
 
 <br /><br />
 
-<!--   ![ttap0704's github stats](https://github-readme-stats.vercel.app/api?username=ttap0704&show_icons=true) -->
 ![ttap0704's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap0704&show_icons=true&theme=radical)
-<!--   [![ttap0704's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ttap0704&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&layout=compact)](https://github.com/ttap0704) -->
