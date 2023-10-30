@@ -2,7 +2,7 @@
 <p>
   안녕하세요. 빠르게 변화하는 환경에 잘 적응하는 개발자 이대규입니다.<br /> 자주 변하는 환경에서도 잘 적응하는 성격덕에, 웹 개발자와 잘 맞습니다. <br /><br/>
   
-  새로운 것을 배우고, 새로운 분야에 도전하는 것을 좋아합니다.<br/> 현재는 Web3환경에 대해 공부하고 있습니다.
+  새로운 것을 배우고, 새로운 분야에 도전하는 것을 좋아합니다.
 </p>
 
 <br />
@@ -19,14 +19,5 @@
 </div>
 
 <br />
-
-<h2>관심 및 공부 기술</h2>
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-</div>
-
-<br /><br />
 
 ![ttap0704's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttap0704&show_icons=true&theme=radical)
